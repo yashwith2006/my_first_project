@@ -1,0 +1,212 @@
+[
+  {
+    "muscle": "chest",
+    "description": "The chest is a major pushing muscle. It helps with pressing, upper-body strength, and overall muscle development.",
+    "exercises": [
+      {
+        "name": "Barbell Bench Press",
+        "description": "A compound movement that builds overall chest strength.",
+        "sets": "4",
+        "reps": "6-8",
+        "rest": "90-120 sec",
+        "tips": "Keep your back flat on the bench and lower the bar under control."
+      },
+      {
+        "name": "Incline Dumbbell Press",
+        "description": "Focuses on the upper chest and shoulders.",
+        "sets": "3",
+        "reps": "8-12",
+        "rest": "60-90 sec",
+        "tips": "Move slowly and avoid flaring elbows too much."
+      },
+      {
+        "name": "Push-ups",
+        "description": "A bodyweight finisher for chest endurance and control.",
+        "sets": "3",
+        "reps": "10-20",
+        "rest": "45-60 sec",
+        "tips": "Keep your body in a straight line and lower until your chest nearly touches the floor."
+      }
+    ]
+  },
+  {
+    "muscle": "back",
+    "description": "The back includes the lats, traps, and rear delts. It is important for posture, pulling strength, and upper body power.",
+    "exercises": [
+      {
+        "name": "Pull-ups",
+        "description": "A strong vertical pull movement for the lats and upper back.",
+        "sets": "3",
+        "reps": "6-10",
+        "rest": "90 sec",
+        "tips": "Pull your elbows down and avoid swinging your body."
+      },
+      {
+        "name": "Bent-Over Row",
+        "description": "Builds thickness in the mid-back and helps with pulling strength.",
+        "sets": "4",
+        "reps": "6-10",
+        "rest": "90 sec",
+        "tips": "Keep your chest up and row with your elbows, not your hands."
+      },
+      {
+        "name": "Lat Pulldown",
+        "description": "A safe and effective lat-building exercise.",
+        "sets": "3",
+        "reps": "8-12",
+        "rest": "60-90 sec",
+        "tips": "Pull the bar to the upper chest and keep shoulder blades down and back."
+      }
+    ]
+  },
+  {
+    "muscle": "biceps",
+    "description": "The biceps are the front upper-arm muscles responsible for elbow flexion and forearm control.",
+    "exercises": [
+      {
+        "name": "Barbell Curl",
+        "description": "A classic movement that builds arm size and strength.",
+        "sets": "3",
+        "reps": "8-10",
+        "rest": "60-90 sec",
+        "tips": "Keep your elbows close and avoid swinging during the lift."
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "description": "Targets the long head of the biceps for better arm shape.",
+        "sets": "3",
+        "reps": "10-12",
+        "rest": "60 sec",
+        "tips": "Extend the arms fully and curl with control."
+      },
+      {
+        "name": "Hammer Curl",
+        "description": "Works the biceps and brachialis for stronger arms.",
+        "sets": "3",
+        "reps": "10-15",
+        "rest": "45-60 sec",
+        "tips": "Keep your wrists neutral and avoid leaning back."
+      }
+    ]
+  },
+  {
+    "muscle": "triceps",
+    "description": "The triceps are the back of the upper arm and are involved in almost all pressing movements.",
+    "exercises": [
+      {
+        "name": "Close-Grip Bench Press",
+        "description": "Heavy compound movement that develops triceps power.",
+        "sets": "4",
+        "reps": "6-8",
+        "rest": "90 sec",
+        "tips": "Keep elbows tucked close to the body."
+      },
+      {
+        "name": "Skull Crusher",
+        "description": "Isolation exercise to target the triceps head.",
+        "sets": "3",
+        "reps": "8-12",
+        "rest": "60 sec",
+        "tips": "Lower slowly and do not lock elbows hard at the top."
+      },
+      {
+        "name": "Cable Pushdown",
+        "description": "Great for slower tension and triceps pump.",
+        "sets": "3",
+        "reps": "10-15",
+        "rest": "45-60 sec",
+        "tips": "Keep your shoulders down and avoid leaning forward."
+      }
+    ]
+  },
+  {
+    "muscle": "shoulders",
+    "description": "The shoulders help with pressing, posture, and upper-body stability. They are made of deltoid heads that work together.",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "description": "A main shoulder builder that strengthens the entire deltoid region.",
+        "sets": "4",
+        "reps": "5-8",
+        "rest": "90 sec",
+        "tips": "Brace the core and move the bar in a straight line."
+      },
+      {
+        "name": "Lateral Raise",
+        "description": "Targets the side delts for shoulder width.",
+        "sets": "3",
+        "reps": "12-15",
+        "rest": "45-60 sec",
+        "tips": "Lift through the shoulder and avoid swinging the weights."
+      },
+      {
+        "name": "Face Pulls",
+        "description": "Improves rear delt work and posture.",
+        "sets": "3",
+        "reps": "12-20",
+        "rest": "45 sec",
+        "tips": "Pull toward your face and keep elbows high."
+      }
+    ]
+  },
+  {
+    "muscle": "legs",
+    "description": "The legs include the quads, hamstrings, glutes, and calves. They are the foundation for overall athletic performance.",
+    "exercises": [
+      {
+        "name": "Back Squat",
+        "description": "One of the best lower-body strength exercises.",
+        "sets": "4",
+        "reps": "5-8",
+        "rest": "120 sec",
+        "tips": "Keep your chest up and descend deep without losing form."
+      },
+      {
+        "name": "Romanian Deadlift",
+        "description": "Builds hamstrings and glutes while improving posterior chain strength.",
+        "sets": "3",
+        "reps": "8-10",
+        "rest": "90 sec",
+        "tips": "Hinge at the hips and keep the bar close to the body."
+      },
+      {
+        "name": "Walking Lunge",
+        "description": "Improves balance and unilateral leg strength.",
+        "sets": "3",
+        "reps": "10 each leg",
+        "rest": "60 sec",
+        "tips": "Step forward under control and keep your knee tracking over the toes."
+      }
+    ]
+  },
+  {
+    "muscle": "abs",
+    "description": "The abs help with trunk stability, posture, and force transfer during gym lifts.",
+    "exercises": [
+      {
+        "name": "Plank",
+        "description": "Isometric core exercise that develops stability.",
+        "sets": "3",
+        "reps": "30-60 sec",
+        "rest": "30-45 sec",
+        "tips": "Keep your body in a straight line and breathe steadily."
+      },
+      {
+        "name": "Hanging Knee Raise",
+        "description": "Targets the lower abs and helps improve core strength.",
+        "sets": "3",
+        "reps": "8-12",
+        "rest": "45-60 sec",
+        "tips": "Raise your knees with control and avoid swinging."
+      },
+      {
+        "name": "Cable Crunch",
+        "description": "A strong abdominal isolation movement.",
+        "sets": "3",
+        "reps": "10-15",
+        "rest": "45 sec",
+        "tips": "Crunch by pulling your ribs down and not lifting the shoulders too much."
+      }
+    ]
+  }
+]
